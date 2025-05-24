@@ -1,0 +1,71 @@
+Spotify Playlist Backup
+Playlist: actual karaoke
+Playlist ID: 69B0Fg4RltQUdC5JJKH11m
+Generated on: 5/23/2025, 9:37:38 PM
+Total tracks: 64
+Format: Spotify Track URLs
+
+https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm
+https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56
+https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr
+https://open.spotify.com/track/22NN4BS1AlqVbyKIWExgON
+https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk
+https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd
+https://open.spotify.com/track/5o4cq6gKFAbR1V7wITwB7n
+https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ
+https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+https://open.spotify.com/track/2yEoZfzkbSfW0rp6ngcTeb
+https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
+https://open.spotify.com/track/5p34sF7EskpzTuW3RGy9fs
+https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva
+https://open.spotify.com/track/6mwZS6fLcQP1wKv3HN3OcY
+https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP
+https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI
+https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs
+https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2
+https://open.spotify.com/track/7LDe75cRmbXNcMTGXR5sze
+https://open.spotify.com/track/6KDG8vvFerlCU63IXdw1zb
+https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z
+https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY
+https://open.spotify.com/track/6Cc09f1tQTDzPKbclK52hY
+https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t
+https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU
+https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo
+https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM
+https://open.spotify.com/track/5mvKuE9Lf9ARVXVXA32kK9
+https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a
+https://open.spotify.com/track/0ej0YkMM8E0WOWuWVZliDh
+https://open.spotify.com/track/1pViOt8zA2rl2NfHeDGnyD
+https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh
+https://open.spotify.com/track/2CJtimCSGAn8x6RE3irZFV
+https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0
+https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i
+https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj
+https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j
+https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG
+https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq
+https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3
+https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7
+https://open.spotify.com/track/7sapKrjDij2fpDVj0GxP66
+https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF
+https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE
+https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG
+https://open.spotify.com/track/5VqXwCYPMCMa0s4ZmpfJ6r
+https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox
+https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P
+https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj
+https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7
+https://open.spotify.com/track/4inW0d0HQFGXyYZdUdWaNc
+https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX
+https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4
+https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky
+https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH
+https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl
+https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48
+https://open.spotify.com/track/263aNAQCeFSWipk896byo6
+https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN
+https://open.spotify.com/track/191w1gNvwUI55Pk6PcVvMx
+https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs
+https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv
+https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj
+https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY
