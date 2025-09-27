@@ -1,8 +1,8 @@
 Spotify Playlist Backup
 Playlist: Guess that Tune.
 Playlist ID: 6QAKnenuZoowNqxRzZbeRg
-Generated on: 5/23/2025, 9:37:33 PM
-Total tracks: 2090
+Generated on: 9/27/2025, 11:27:19 AM
+Total tracks: 2092
 Format: Artist - Song Name
 
 "Les Misérables Original London Cast" Ensemble - One Day More
@@ -25,7 +25,7 @@ Format: Artist - Song Name
 50 Cent - P.I.M.P.
 50 Cent, Olivia - Candy Shop
 A Great Big World, Christina Aguilera - Say Something
-A Touch Of Class, Pete Konemann - Around the World (La La La La La) - Radio Version
+A Touch Of Class, Pete Konemann - Around the World (La La La La La)
 A Tribe Called Quest - Can I Kick It?
 a-ha - Take on Me
 Aaron Smith, Krono - Dancin (feat. Luvli) - Krono Remix
@@ -535,7 +535,6 @@ Dick Van Dyke, Julie Andrews - Chim Chim Cher-ee - From "Mary Poppins"/Soundtrac
 Diddy, 112 - I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster
 Dido - White Flag
 Dieter Goldmann Strings - Blue Danube Waltz
-Dimension Latina, Oscar D'León - Lloraras
 Dionne Warwick - Walk on By
 Dionne Warwick, Elton John - That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)
 Dire Straits - Brothers in Arms
@@ -591,13 +590,14 @@ Eagles - Take It Easy - 2013 Remaster
 Eamon - Fuck It (I Don't Want You Back)
 Earth, Wind & Fire - Let's Groove
 Earth, Wind & Fire - September
-Earth, Wind & Fire, The Emotions - Boogie Wonderland
+Earth, Wind & Fire, The Emotions - Boogie Wonderland (with The Emotions)
 Eartha Kitt - Santa Baby
 Eazy-E - Boyz-N-The-Hood
 Ed Sheeran - Bad Habits
 Ed Sheeran - Perfect
 Ed Sheeran - Shape of You
 Ed Sheeran - Thinking out Loud
+Edvard Grieg, Royal Philharmonic Orchestra - Morning Mood
 Edwin Starr - War
 Edwyn Collins - A Girl Like You
 Eiffel 65, Gabry Ponte - Blue (Da Ba Dee) - Gabry Ponte Video Edit
@@ -732,7 +732,7 @@ Frank Sinatra - That's Life - 2008 Remastered
 Frank Sinatra - Theme From New York, New York
 Frank Sinatra, Count Basie - Fly Me To The Moon (In Other Words)
 Frank Sinatra, Nancy Sinatra - Somethin' Stupid
-Frankie Goes To Hollywood - Relax
+Frankie Goes To Hollywood - Relax (Come Fighting)
 Frankie Laine - Rawhide
 Frankie Valli & The Four Seasons - Big Girls Don't Cry
 Frankie Valli & The Four Seasons - Sherry
@@ -778,7 +778,7 @@ Glass Animals - Heat Waves
 Glenn Miller - In the Mood
 Gloria Estefan, Miami Sound Machine - Conga
 Gloria Gaynor - I Will Survive - 1981 Re-recording
-Gnarls Barkley - Crazy
+Gnarls Barkley, CeeLo Green - Crazy
 Goldfrapp - Ooh La La
 Goldfrapp - Strict Machine
 Good Charlotte - Girls & Boys
@@ -1055,6 +1055,7 @@ Kylie Minogue - Can't Get You out of My Head
 Kylie Minogue - Love at First Sight
 Kylie Minogue - Spinning Around
 La Bouche - Be My Lover
+La Dimensión Latina, Oscar D'León - Lloraras
 La Reine des chansons pour enfants et bébés - Frère Jacques
 La Roux - Bulletproof
 La Roux - In For The Kill
@@ -1421,7 +1422,7 @@ Puddle Of Mudd - She Hates Me
 Pulp - Common People - Full Length Version
 Pyotr Ilyich Tchaikovsky, André Previn - Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato
 Pyotr Ilyich Tchaikovsky, Lior Rosner - Dance of the Sugar Plum Fairy
-Pyotr Ilyich Tchaikovsky, Royal Philharmonic Orchestra - 1812 Festival Overture, Op. 49: 1812 Overture, Op. 49: Finale
+Pyotr Ilyich Tchaikovsky, Royal Philharmonic Orchestra - 1812 Festival Overture, Op. 49 (Conclusion)
 Pyotr Ilyich Tchaikovsky, Sir Simon Rattle - Tchaikovsky: The Nutcracker, Op. 71, Act 2: No. 13, Waltz of the Flowers
 Queen - Another One Bites The Dust - Remastered 2011
 Queen - Bohemian Rhapsody - Remastered 2011
@@ -1437,6 +1438,7 @@ Queen - We Will Rock You - Remastered 2011
 Queen - You're My Best Friend - Remastered 2011
 Queen, David Bowie - Under Pressure - Remastered 2011
 Queens of the Stone Age - No One Knows
+Quincy Jones - Soul Bossa Nova
 R. Kelly - I Believe I Can Fly
 R. Kelly - Ignition - Remix
 R.E.M. - Everybody Hurts
@@ -1482,7 +1484,7 @@ Reel Big Fish - Beer
 Reel Big Fish - Sell Out
 Richard Marx - Right Here Waiting
 Richard Strauss, Berliner Philharmoniker - Also sprach Zarathustra, Op. 30: I. Prelude. Sonnenaufgang
-Richard Wagner, Budapest Symphony Orchestra - Die Walkure, Act III: Ride of the Valkyries
+Richard Wagner, Budapest Symphony Orchestra - Die Walküre, Act III: Ride of the Valkyries
 Rick Astley - Never Gonna Give You Up
 Rick James - Super Freak
 Rick Ross - Hustlin'

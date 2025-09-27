@@ -1,7 +1,7 @@
 Spotify Playlist Backup
 Playlist: actual karaoke
 Playlist ID: 69B0Fg4RltQUdC5JJKH11m
-Generated on: 5/23/2025, 9:37:38 PM
+Generated on: 9/27/2025, 11:27:02 AM
 Total tracks: 64
 Format: Artist - Song Name
 

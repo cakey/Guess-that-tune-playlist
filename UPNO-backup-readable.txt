@@ -1,8 +1,8 @@
 Spotify Playlist Backup
 Playlist: UPNO
 Playlist ID: 7KYF90J2KSpfyPS2fQzxsg
-Generated on: 5/23/2025, 9:37:41 PM
-Total tracks: 236
+Generated on: 9/27/2025, 11:27:24 AM
+Total tracks: 235
 Format: Artist - Song Name
 
 Alex O'Rion - Elysium - Original Mix
@@ -73,6 +73,7 @@ deadmau5, Tinlicker - luxuria (ov) - Tinlicker Remix
 Dirty South - Night Walks
 DJ Pierre, Chic Loren - I Feel Love - Monkey Safari Remix - Mixed
 Eelke Kleijn - The Calling
+Egostereo - Paeonia
 Einmusik - Blooming
 Einmusik - Dune Suave
 Einmusik - Flare
@@ -86,6 +87,7 @@ Einmusik, Seth Schwarz - Eisheimer
 Embliss, Manu Zain - Worthwhile - LTN 'Sunrise' Remix
 Embliss, Manu Zain - Worthwhile - LTN 'Sunrise' Remix
 Emrod - Revelation
+Fabrication - Hot Foot
 Faunts, EA Games Soundtrack - Das Malefitz
 Fehrplay - Aria - Edit
 Few Nolder, Monkey Safari - Clouds - Monkey Safari Remix - Mixed
@@ -185,7 +187,6 @@ Resil - Miami Electro
 Rodg - Signs
 Ron Flatter - Endlos
 Ron Flatter - Madame
-Ron Flatter - Part77
 Ron Flatter, Henning Richter - Madame - Henning Richter Remix
 Ron Flatter, Huminal - Madame - Huminal Remix
 Rylan Taggart - Constellation - Original Mix
@@ -203,7 +204,6 @@ Solee - Glacier Point
 Solee - Heroes
 Solee - Luft
 Solee - March of the giants
-Solee - Planet Earth
 Solee - Rebellion
 Solee - Reboot
 Solee - Sandburg
@@ -231,7 +231,6 @@ Theydream - Nemesis
 Thylacine - Home
 Tinlicker, Dosem - Hypnotised
 Tinlicker, Robert Miles - Children - Extended Mix
-Tycho - Adrift
 Tycho - Ascension
 Tycho - Coastal Brake
 Wellenrausch, Gai Barone - Heroes of Light - Jerome Isma-Ae & Alastor Remix

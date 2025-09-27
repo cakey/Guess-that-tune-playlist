@@ -1,7 +1,7 @@
 Spotify Playlist Backup
 Playlist: Ben's Music
 Playlist ID: 23nFRTPMFPAEX5UJohI8Xx
-Generated on: 5/23/2025, 9:37:38 PM
+Generated on: 9/27/2025, 11:27:09 AM
 Total tracks: 1409
 Format: Artist - Song Name
 
@@ -95,7 +95,7 @@ Auli'i Cravalho, Disney - How Far I'll Go
 Auli'i Cravalho, Vai Mahina - Know Who You Are
 Average White Band - Pick Up the Pieces
 Average White Band - Work to Do
-Axwell, A-Trak - Nobody Else - A-Trak Remix
+Axwell - Nobody Else - A-Trak Remix
 B.B. King - The Thrill Is Gone
 Baccara - Yes Sir, I Can Boogie
 Barns Courtney - Boy Like Me
@@ -172,16 +172,16 @@ Brandon Flowers - I Can Change
 Breakwater - Release the Beast
 Brian Witzig - Ain’t Right
 Brian Witzig - Take Out
-Broken Bells - Control
 Broken Bells - Good Luck
-Broken Bells - Holding on for Life
-Broken Bells - It's That Talk Again
-Broken Bells - Leave It Alone
 Broken Bells - Shelter
-Broken Bells - The Angel and the Fool
-Broken Bells - The Changing Lights
-Broken Bells - The Remains of Rock & Roll
 Broken Bells - We're Not In Orbit Yet…
+Broken Bells, Danger Mouse - Control
+Broken Bells, Danger Mouse - Holding on for Life
+Broken Bells, Danger Mouse - It's That Talk Again
+Broken Bells, Danger Mouse - Leave It Alone
+Broken Bells, Danger Mouse - The Angel and the Fool
+Broken Bells, Danger Mouse - The Changing Lights
+Broken Bells, Danger Mouse - The Remains of Rock & Roll
 Bronze Radio Return - Light Me Up
 BROS - Boogar Sugre
 BROS - Tell Me
@@ -508,7 +508,6 @@ Franz Ferdinand - Twilight Omens
 Franz Ferdinand - Well That Was Easy
 Franz Ferdinand - Well That Was Easy
 Franz Ferdinand - You Could Have It So Much Better
-Franz Liszt - La Campanella
 Fred V & Grafix - Recognise
 Friction, Josh Barry - Freak
 Fun Lovin' Criminals - Couldn't Get It Right
@@ -553,7 +552,7 @@ Gloria Jones - Tainted Love
 Gloria Jones - Tainted Love
 Gloria Jones - Tell Me Now
 Gnarls Barkley - Just a Thought
-Gnarls Barkley - Smiley Faces
+Gnarls Barkley, CeeLo Green - Smiley Faces
 Goldfrapp - Anymore
 Goldfrapp - Beast That Never Was
 Goldfrapp - Faux Suede Drifter
@@ -1063,6 +1062,7 @@ Sam Ryder - SPACE MAN
 Sam Sparro - Black & Gold - Marcussen Album Version
 Samuel E. Wright, Disney - Kiss the Girl
 Samuel E. Wright, Ensemble - The Lion King - They Live in You - From "The Lion King"/Original Broadway Cast Recording
+Satoru Kōsaki - La Campanella
 SBTRKT, Sampha - Gon Stay
 Scissor Sisters - Take Your Mama
 Scorpions - Rock You Like A Hurricane
@@ -1412,5 +1412,5 @@ Zero 7, Mozez - Warm Sound
 Zero 7, Sia - You're My Flame
 Zero 7, Sophie Barker - In The Waiting Line
 ZHU - Faded
-Zion & Lennox, J Balvin - Otra vez (feat. J Balvin)
+Zion & Lennox, J Balvin - Otra Vez (feat. J Balvin)
 Ásgeir - Summer Guest
