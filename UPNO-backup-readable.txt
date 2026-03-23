@@ -1,7 +1,7 @@
 Spotify Playlist Backup
 Playlist: UPNO
 Playlist ID: 7KYF90J2KSpfyPS2fQzxsg
-Generated on: 9/27/2025, 11:27:24 AM
+Generated on: 3/22/2026, 7:23:25 PM
 Total tracks: 235
 Format: Artist - Song Name
 
@@ -87,6 +87,15 @@ Einmusik, Seth Schwarz - Eisheimer
 Embliss, Manu Zain - Worthwhile - LTN 'Sunrise' Remix
 Embliss, Manu Zain - Worthwhile - LTN 'Sunrise' Remix
 Emrod - Revelation
+Eric Luttrell - Albanian Summer
+Eric Luttrell - Dipper
+Eric Luttrell - Find Me
+Eric Luttrell - Intergalactic Plastic - Edit
+Eric Luttrell - No Pressure
+Eric Luttrell - Some Other Time
+Eric Luttrell - Synergy 2000
+Eric Luttrell - Universal Theory
+Eric Luttrell - What Do You Feel?
 Fabrication - Hot Foot
 Faunts, EA Games Soundtrack - Das Malefitz
 Fehrplay - Aria - Edit
@@ -141,15 +150,6 @@ Lane 8, Emmit Fenn - Red Lights
 Lane 8, J. F. July - Coming Back to You - Edit
 Lane 8, Khåen - Duchess
 Lost Soul (CH), Whirl - Maze - Whirl Remix
-Luttrell - Albanian Summer
-Luttrell - Dipper
-Luttrell - Find Me
-Luttrell - Intergalactic Plastic - Edit
-Luttrell - No Pressure
-Luttrell - Some Other Time
-Luttrell - Synergy 2000
-Luttrell - Universal Theory
-Luttrell - What Do You Feel?
 Maceo Plex, Gabriel Ananda - Solitary Daze
 Majed Salih - Loveranity
 Marc Romboy, Stephan Bodzin - Atlas - Adriatique Remix

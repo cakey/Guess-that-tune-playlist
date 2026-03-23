@@ -1,8 +1,8 @@
 Spotify Playlist Backup
 Playlist: Ben's Music
 Playlist ID: 23nFRTPMFPAEX5UJohI8Xx
-Generated on: 9/27/2025, 11:27:09 AM
-Total tracks: 1409
+Generated on: 3/22/2026, 7:27:03 PM
+Total tracks: 1442
 Format: Artist - Song Name
 
 16BL - Deep In My Soul - Original Mix
@@ -65,6 +65,7 @@ Alison Wonderland, SLUMBERJACK - Naked (Alison Wonderland X Slumberjack)
 All We Are - Keep Me Alive
 Aloe Blacc - I Need A Dollar
 Alvvays - Adult Diversion
+Amy Winehouse - He Can Only Hold Her
 Amy Winehouse - Rehab
 Amy Winehouse - Rehab
 Amy Winehouse - Rehab
@@ -144,7 +145,7 @@ Blockhead - Four Walls
 Blockhead - It's Raining Clouds
 Blockhead - The Fakest Story Ever Told
 Blockhead - The Music Scene
-Blondie - Rapture - Remastered
+Blondie - Rapture - Remastered 2002
 Blossoms - Charlemagne
 Bob Moses - All I Want
 Bob Moses - Don’t Hold Back
@@ -230,7 +231,9 @@ Cautious Clay - Shook
 Cautious Clay - Stolen Moments
 Cautious Clay - Wildfire
 Chappell Roan - Casual
+Chappell Roan - Good Luck, Babe!
 Chappell Roan - Naked In Manhattan
+Chappell Roan - Pink Pony Club
 Charles Bradley - Ain't Gonna Give It Up
 Charles Bradley - Change for the World
 Charles Bradley - Changes
@@ -254,10 +257,12 @@ Chase & Status - Is It Worth It
 Chase & Status - No Problem
 Chase & Status - Take Me Away
 Chase & Status And Blossoms - This Moment
+Chase & Status, Bou - Baddadan (feat. IRAH, Flowdan, Trigga & Takura)
 Chase & Status, Bou - Baddadan (feat. IRAH, Flowdan, Trigga & Takura) - Extended Mix
 Chase & Status, Elli Ingram - Heaven Knows
 Chase & Status, Emeli Sandé - Love Me More
 Chase & Status, General Levy - Heater
+Chase & Status, Hedex - Liquor & Cigarettes (feat. ArrDee)
 Chase & Status, IRAH - Program
 Chase & Status, Knytro - Gangsta Boogie
 Chase & Status, Liam Bailey - Blind Faith
@@ -265,6 +270,7 @@ Chase & Status, Moko - Like That
 Chase & Status, Plan B - Pieces
 Chase & Status, Seinabo Sey - Know Your Name
 Chase & Status, Stefflon Don - Selecta (feat. Stefflon Don)
+Chase & Status, Stormzy - BACKBONE
 Chase & Status, Sub Focus - Flashing Lights
 Chase & Status, Tinie Tempah - Hitz
 Chase & Status, Tom Grennan - All Goes Wrong
@@ -329,6 +335,7 @@ Curtis Harding - Need Your Love
 Curtis Harding - Next Time
 Curtis Harding - On And On
 Curtis Harding - On And On - Edit
+Curtis Harding - The Drive
 Curtis Harding - Till The End
 Curtis Harding - Welcome To My World
 Curtis Harding - With You
@@ -356,6 +363,7 @@ Dead Poet Society - .beenherebefore.
 Dead Poet Society - .CoDA.
 Dead Poet Society - .haunted.
 Dead Poet Society - .lovemelikeyoudo.
+Dead Poet Society - .SALT.
 deadmau5 - Complications
 deadmau5 - Strobe - Radio Edit
 deadmau5, Kaskade - I Remember - Vocal Mix
@@ -372,6 +380,7 @@ Delta Heavy - White Flag VIP
 Delta Heavy, Dirty Audio - Stay - Maduk Remix
 Dennis Lloyd - Nevermind
 Des Rocs - Dead Ringer
+Des Rocs - Don't Hurt Me
 Des Rocs - Hanging by a Thread
 Des Rocs - I Am The Lightning
 Des Rocs - In The Night
@@ -412,13 +421,14 @@ Dr. Dog - Survive
 Dr. Dre, Snoop Dogg - The Next Episode
 Dr. Shiver, Candi Staton - You Got The Love (Official Remix) - Radio Edit
 Dua Lipa - Break My Heart
+Duke Dumont - Ocean Drive
 Duran Duran - Rio - 2009 Remaster
 Dusty Springfield - Son of a Preacher Man
 Dwayne Johnson, Disney - You're Welcome
 Dyke & The Blazers - Let A Woman Be A Woman - Let A Man Be A Man
 Eagles - Take It Easy - 2013 Remaster
 Earth, Wind & Fire - Fantasy
-Earth, Wind & Fire - Fantasy - Single Version
+Earth, Wind & Fire - Fantasy
 Earth, Wind & Fire - In the Stone - Edit
 Earth, Wind & Fire - September
 Earth, Wind & Fire - September
@@ -440,6 +450,7 @@ Eli "Paperboy" Reed - Cut Ya Down
 Elton John - Bennie And The Jets - Remastered 2014
 Elton John - Can You Feel the Love Tonight - End Title
 Elton John - Goodbye Yellow Brick Road - Remastered 2014
+Elton John - Goodbye Yellow Brick Road - Remastered 2014
 Elton John - I'm Still Standing
 Elton John - Levon
 Elton John - Rocket Man (I Think It's Going To Be A Long Long Time)
@@ -452,7 +463,7 @@ Eminem - Not Afraid
 Eminem, 50 Cent - You Don't Know
 Eminem, Nate Dogg - Till I Collapse
 Ennio Morricone - The Ecstasy Of Gold - 2004 Remaster
-Ennio Morricone, Gustavo Santaolalla - Ecstasy of Gold
+Ennio Morricone, Gustavo Santaolalla - Ecstasy of Gold - from "The Book of Life" Soundtrack
 Ensemble - The Lion King - Grasslands Chant
 Enya - Only Time
 Enya - Orinoco Flow - 2009 Remaster
@@ -460,6 +471,7 @@ Eric Carmen - All By Myself
 Escort - Cocaine Blues (Extended)
 Europe - Rock the Night
 Explosions In The Sky - So Long, Lonesome
+Fabrication - Hot Foot
 Faithless - Mass Destruction - Single Version
 Farruko - Pepas
 Father John Misty - Real Love Baby
@@ -475,6 +487,7 @@ Fleetwood Mac - Hypnotized
 Fleetwood Mac - Landslide
 Fleetwood Mac - Rhiannon
 Fleetwood Mac - The Chain - 2004 Remaster
+Fleetwood Mac - Tusk - 2018 Remaster
 Florence + The Machine - Blinding
 Flux Pavilion - I Can't Stop
 Foals - My Number
@@ -508,6 +521,7 @@ Franz Ferdinand - Twilight Omens
 Franz Ferdinand - Well That Was Easy
 Franz Ferdinand - Well That Was Easy
 Franz Ferdinand - You Could Have It So Much Better
+Franz Liszt, Lang Lang - Liebestraum No. 3 in A-Flat Major, S. 541 / 3
 Fred V & Grafix - Recognise
 Friction, Josh Barry - Freak
 Fun Lovin' Criminals - Couldn't Get It Right
@@ -573,6 +587,9 @@ Grandmaster Flash & The Furious Five, Grandmaster Melle Mel - The Message (feat.
 grandson - Bury Me Face Down
 grandson - Despicable
 Grateful Dead - Althea - 2013 Remaster
+Green Day - Are We the Waiting / St. Jimmy
+Green Day - Holiday / Boulevard of Broken Dreams
+Green Day - Jesus of Suburbia
 Greensky Bluegrass - Road to Nowhere
 Gregorio Allegri, The Choir Of Trinity College, Cambridge - Miserere mei, Deus
 Grover Washington, Jr., Bill Withers - Just the Two of Us
@@ -613,6 +630,7 @@ Hozier - Take Me To Church
 Hybrid Minds, Alexa Harley - Phoenix
 I Monster - Daydream In Blue
 Ibibio Sound Machine - All That You Want
+Ibibio Sound Machine - Something We'll Remember
 Ibibio Sound Machine - The Pot Is On Fire
 IDLES - Colossus
 IDLES - Cry To Me
@@ -638,6 +656,7 @@ James Taylor - Fire and Rain
 James Taylor - You've Got a Friend
 James Vincent McMorrow - If I Had A Boat
 Jamie xx - Gosh
+Jamie xx - KILL DEM
 Jamie xx - Obvs
 Jamie xx, The Avalanches - All You Children
 Jamie xx, Young Thug - I Know There's Gonna Be (Good Times)
@@ -645,8 +664,8 @@ Janis Joplin - Maybe
 Janis Joplin - Piece of My Heart
 Janko Nilovic - Drug Song
 Jarryd James - Do You Remember
-JAY-Z - 99 Problems
-JAY-Z, Rihanna - Run This Town
+JAŸ-Z - 99 Problems
+JAŸ-Z, Rihanna - Run This Town
 JC Brooks & The Uptown Sound - Everything Will Be Fine
 JC Brooks & The Uptown Sound - Howl
 JC Brooks & The Uptown Sound - I Can See Everything
@@ -675,6 +694,7 @@ Jimmy Ruffin - What Becomes Of The Brokenhearted
 Joachim Pastor - Millenium
 Joan Baez - Diamonds And Rust
 Joan Baez - House Of The Rising Sun
+John B, Camo & Krooked - Numbers (Camo & Krooked Remix) - Red Bull Symphonic
 John Denver - Take Me Home, Country Roads - Rerecorded
 John Holt, Tommy McCook - Ali Baba
 John Legend - All of Me
@@ -692,6 +712,7 @@ Jungle - Every Night
 Jungle - Talk About It
 Jungle - The Heat
 Jungle - Time
+Jungle - Truth
 Jungle, Erick the Architect - Candle Flame
 Jungle, Roots Manuva - You Ain't No Celebrity
 Junior dos Santos Silva - Moonlight Sonata (Third Movement)
@@ -831,6 +852,7 @@ Maroon 5 - Wake Up Call
 Mary Clark - Take Me I'm Yours
 Matrix & Futurebound, Max Marshall - Fire
 Matthew And The Atlas - Within the Rose
+Mau P - MERTHER
 Metallica - The Day That Never Comes
 Metallica - The Day That Never Comes
 Metrik - Fatso - VIP
@@ -839,6 +861,7 @@ Metrik, Kyza - Aftermath
 Metrik, Reija Lee - Freefall VIP
 Metrik, ShockOne - Dying Light
 Michael Kiwanuka - Cold Little Heart
+Michael Kiwanuka - Falling
 Michael Kiwanuka - Father's Child
 Michael Kiwanuka - Final Days
 Michael Kiwanuka - Hero
@@ -866,6 +889,7 @@ Moby - Honey
 Modest Mouse - Float On
 Mosh - McQueen
 Mr. Probz, Robin Schulz - Waves - Robin Schulz Radio Edit
+Muse - Apocalypse Please
 Muse - Hysteria
 Muse - Hysteria
 Muse - Map of the Problematique
@@ -885,9 +909,11 @@ Neal Francis - Changes, Pts. 1 & 2
 NERO - Guilt
 NERO - Guilt
 NERO - Me And You
+NERO - Nowhere to Hide
 NERO - Promises
 NERO - Satisfy
 NERO - Talking to God
+NERO - The Unknown
 NERO - Two Minds
 NERO, ZHU - Dreams
 Netsky - Iron Heart
@@ -901,6 +927,7 @@ Nina Simone - Sinnerman
 Nitty Gritty Dirt Band - Fishing In The Dark
 Noel Gallagher's High Flying Birds - The Right Stuff (Psychemagik Rework)
 Norma Tanega - You're Dead
+Nothing But Thieves - Welcome to the DCC
 Nu:Logic - Nova
 Nu:Tone, Lea Lea - Tides
 Ocean Colour Scene - Hundred Mile High City
@@ -1040,6 +1067,7 @@ Rockwell - Somebody's Watching Me - Single Version
 Rod Stewart - Da Ya Think I'm Sexy?
 Ron Gallo - Young Lady, You're Scaring Me
 Roy Orbison - Oh, Pretty Woman
+Royal Blood - Sleep
 Rufus, Chaka Khan - Ain't Nobody
 Run The Jewels - Blockbuster Night, Pt. 1
 Run The Jewels, El-P - A Report to the Shareholders / Kill Your Masters
@@ -1076,6 +1104,7 @@ Shakira, Maluma - Chantaje (feat. Maluma)
 Sharon Jones & The Dap-Kings - How Long Do I Have to Wait for You?
 Shawn Mendes, Camila Cabello - Señorita
 Shirley Bassey - Jezahel - 2000 Remaster
+Shuggie Otis - Purple
 Shuggie Otis - Strawberry Letter 23
 Shuggie Otis - Sweet Thang
 Sigala - Easy Love - Extended Mix
@@ -1084,6 +1113,7 @@ Sigma, Jetta - Slow Down
 Sigma, Labrinth - Higher
 Sigma, Labrinth - Higher
 Sigma, Maverick Sabre - Broken Promises
+Sigma, Maverick Sabre - Sell My Soul
 Sigma, Paloma Faith - Changing
 Sigma, Shakka - Lost Away
 Sigur Rós - Hoppípolla
@@ -1179,6 +1209,7 @@ Tchami - Adieu
 Ten Years After - I'd Love To Change The World
 The Afghan Whigs - Demon in Profile
 The Animals - Don't Let Me Be Misunderstood
+The Apache Relay - Don't Leave Me Now
 The Apache Relay - Katie Queen Of Tennessee
 The Beatles - A Day In The Life - Remastered 2009
 The Beatles - Day Tripper - Remastered 2015
@@ -1195,6 +1226,7 @@ The Black Keys - Give Your Heart Away
 The Black Keys - Gold on the Ceiling
 The Black Keys - Hard Row
 The Black Keys - Little Black Submarines
+The Black Keys - Lonely Boy
 The Black Keys - Midnight in Her Eyes
 The Black Keys - Never Gonna Give You Up
 The Black Keys - Next Girl
@@ -1221,7 +1253,6 @@ The Dead Weather - I Feel Love (Every Million Miles)
 The Derek Trucks Band - Crow Jane
 The Devil Makes Three - Old Number Seven
 The Dip - O.P. Jebediah
-The Doors - Break on Through (To the Other Side)
 The Dramatics - Your Love Was Strange
 The Drifters - This Magic Moment
 The Drifters - Under the Boardwalk
@@ -1390,21 +1421,23 @@ Wilkinson, HAYLA - I Need
 Wilkinson, HAYLA - I Need - Wilkinson & Metrik Remix
 Wilkinson, Karen Harding - Sweet Lies
 Wilkinson, P Money - Heartbeat
+Wilkinson, Solardo - XTC - Remix
 Willie Colón, Rubén Blades - De Que?
 Willie Nelson - On the Road Again - Live
 Willie Nelson - On the Road Again - Live at Austin, Texas - Fall 1979
 Wisin - Vacaciones
-Wisin, Don Omar - Vacaciones - Remix
+Wisin, Don Omar - Vacaciones (feat. Don Omar, Zion & Lennox & Tito El Bambino) - Remix
 WITCH - Chifundo
 Wolfgang Amadeus Mozart, Lisa Beckley - Lacrimosa
-Wolfmother - California Queen
 Wolfmother - Colossal
 Wolfmother - In The Castle
 Wolfmother - Joker And The Thief
 Wolfmother - Joker And The Thief
 Yael Naim - New Soul
 Yann Tiersen - Comptine d'un autre été, l'après-midi
-Yaz - Don't Go
+Yann Tiersen - La valse d'Amélie
+Yann Tiersen - La Valse d'Amélie - Version piano
+YAZ - Don't Go
 Young MC - Know How
 Young Thug, Jamie xx - I Know There's Gonna Be (Good Times) [feat. Popcaan]
 Zero 7, Mozez - This World

@@ -1,7 +1,7 @@
 Spotify Playlist Backup
 Playlist: Guess that Tune.
 Playlist ID: 6QAKnenuZoowNqxRzZbeRg
-Generated on: 9/27/2025, 11:27:19 AM
+Generated on: 3/22/2026, 7:23:19 PM
 Total tracks: 2092
 Format: Artist - Song Name
 
@@ -207,8 +207,8 @@ Beyoncé - Love On Top
 Beyoncé - Me, Myself and I
 Beyoncé - Run the World (Girls)
 Beyoncé - Single Ladies (Put a Ring on It)
-Beyoncé, JAY-Z - Crazy In Love (feat. JAY-Z)
-Beyoncé, JAY-Z - Drunk in Love (feat. JAY-Z)
+Beyoncé, JAŸ-Z - Crazy In Love (feat. JAY-Z)
+Beyoncé, JAŸ-Z - Drunk in Love (feat. JAY-Z)
 Beyoncé, Shakira - Beautiful Liar
 Big Brother & The Holding Company, Janis Joplin - Piece of My Heart
 Big Joe Turner - Shake, Rattle and Roll
@@ -368,6 +368,7 @@ Carl Douglas - Kung Fu Fighting
 Carl Orff, London Philharmonic Choir - Carmina Burana: O Fortuna
 Carl Perkins - Blue Suede Shoes
 Carly Rae Jepsen - Call Me Maybe
+Carly Simon - Nobody Does It Better
 Carly Simon - You're So Vain
 Carmen Twillie, Lebo M. - Circle of Life
 Carole King - It's Too Late
@@ -487,8 +488,8 @@ Daryl Hall & John Oates - Private Eyes
 Daryl Hall & John Oates - Rich Girl
 Daryl Hall & John Oates - You Make My Dreams (Come True)
 Dave Lee, Jakatta - American Dream
+David Bowie - "Heroes" - 2017 Remaster
 David Bowie - Changes - 2015 Remaster
-David Bowie - Heroes - 2017 Remaster
 David Bowie - Let's Dance - 2018 Remaster
 David Bowie - Life on Mars? - 2015 Remaster
 David Bowie - Rebel Rebel - 2016 Remaster
@@ -686,7 +687,7 @@ Fedde Le Grand - Put Your Hands Up For Detroit - Radio Edit
 Feeder - Buck Rogers
 Feeder - Feeling a Moment
 Fela Kuti - Water No Get Enemy
-Felix Mendelssohn, Boston Symphony Orchestra - Midsummer Night's Dream, Incidental Music, Op. 61, MWV M 13: No. 9 Wedding March
+Felix Mendelssohn, Boston Symphony Orchestra - Midsummer Night's Dream, Op. 61: No. 9, Wedding March
 Fetty Wap - Trap Queen
 Fifth Harmony, Kid Ink - Worth It (feat. Kid Ink)
 Five - Everybody Get Up - Radio Edit
@@ -755,7 +756,7 @@ George Benson - Give Me the Night
 George Ezra - Budapest
 George Frideric Handel, Eugene Ormandy - Hallelujah Chorus - From the "Messiah"
 George Frideric Handel, Royal Choral Society - Zadok The Priest (Coronation Anthem No. 1, HWV 258)
-George Harrison - Got My Mind Set On You - Remastered 2004
+George Harrison - Got My Mind Set on You
 George Harrison - My Sweet Lord - Remastered 2014
 George Michael - Careless Whisper
 George Michael - Faith - Remastered
@@ -891,11 +892,11 @@ Jason Derulo, Snoop Dogg - Wiggle (feat. Snoop Dogg)
 Jason Mraz - I'm Yours
 Jason Weaver, Rowan Atkinson - I Just Can't Wait to Be King
 Jay Sean, Lil Wayne - Down
-JAY-Z - 99 Problems
-JAY-Z, Alicia Keys - Empire State Of Mind
-JAY-Z, Kanye West - Ni**as In Paris
-JAY-Z, Linkin Park - Numb / Encore
-JAY-Z, Rihanna - Run This Town
+JAŸ-Z - 99 Problems
+JAŸ-Z, Alicia Keys - Empire State Of Mind
+JAŸ-Z, Kanye West - Ni**as In Paris
+JAŸ-Z, Linkin Park - Numb / Encore
+JAŸ-Z, Rihanna - Run This Town
 Jeff Beck - Hi Ho Silver Lining
 Jeff Buckley - Hallelujah
 Jeff Zavac, The Craetts - Hit The Road Jack
@@ -923,7 +924,7 @@ Joe "Bean" Esposito - You're The Best
 Joe Budden - Pump It Up
 Joe Cocker, Jennifer Warnes - Up Where We Belong
 Johann Sebastian Bach, The Cavendish Orchestra - Orchestral Overture (Suite) Nr. 2 in B Minor, BWV 1067: VII: Badinerie
-Johann Sebastian Bach, Ton Koopman - Toccata and Fugue in D Minor, BWV 565
+Johann Sebastian Bach, Ton Koopman - Toccata & Fugue in D Minor, BWV 565
 Johann Sebastian Bach, Trevor Pinnock - Brandenburg Concerto No. 3 in G Major, BWV 1048: I. [Allegro]
 Johann Sebastian Bach, Yo-Yo Ma - Cello Suite No. 1 in G Major, BWV 1007: I. Prélude
 Johann Strauss II, Berliner Philharmoniker - An der schönen blauen Donau, Waltz, Op. 314
@@ -966,7 +967,7 @@ Julie Andrews - My Favorite Things
 Julie Andrews, Dick Van Dyke - Supercalifragilisticexpialidocious - From "Mary Poppins" Soundtrack
 Julie Andrews, Nicholas Hammond - Do-Re-Mi
 Junior Senior - Move Your Feet
-Justice - D.A.N.C.E
+Justice - D.A.N.C.E.
 Justice - Genesis
 Justice, Simian - We Are Your Friends - Justice Vs Simian
 Justin Bieber - Love Yourself
@@ -1055,7 +1056,6 @@ Kylie Minogue - Can't Get You out of My Head
 Kylie Minogue - Love at First Sight
 Kylie Minogue - Spinning Around
 La Bouche - Be My Lover
-La Dimensión Latina, Oscar D'León - Lloraras
 La Reine des chansons pour enfants et bébés - Frère Jacques
 La Roux - Bulletproof
 La Roux - In For The Kill
@@ -1190,7 +1190,6 @@ Marvin Gaye - Let's Get It On
 Marvin Gaye - Sexual Healing
 Marvin Gaye - What's Going On
 Marvin Gaye, Tammi Terrell - Ain't No Mountain High Enough
-Marvin Hamlisch, Carly Simon - Nobody Does It Better
 Mary J. Blige - Family Affair
 Mary J. Blige - No More Drama
 Mary Mary - Shackles (Praise You)
@@ -1333,7 +1332,8 @@ One Direction - What Makes You Beautiful
 OneRepublic - Apologize
 OneRepublic - Counting Stars
 OPM - Heaven Is a Halfpipe (If I Die)
-Opus - Live Is Life (Digitally Remastered) (Single Version)
+Opus - Live Is Life (Digitally Remastered) - Single Version
+Oscar D'León, La Dimensión Latina - Lloraras
 Otis Redding - (Sittin' On) the Dock of the Bay
 Ottawan - D.I.S.C.O. - Single Version
 Outkast - Hey Ya!
@@ -1500,7 +1500,7 @@ Rihanna - Pon de Replay
 Rihanna - Rude Boy
 Rihanna, Calvin Harris - We Found Love
 Rihanna, Drake - Work
-Rihanna, JAY-Z - Umbrella
+Rihanna, JAŸ-Z - Umbrella
 Rihanna, Kanye West - FourFiveSeconds
 Rise Against - Savior
 Ritchie Valens - La Bamba - Single Version

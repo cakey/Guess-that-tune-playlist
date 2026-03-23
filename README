@@ -1,6 +1,8 @@
 Backed up using Tooling(tm) 
 
+first copy from liked to bens
+
 nodemon -w dist/server.js ./dist/server.js
 yarn run webpack --watch --mode development --config webpack.server.config.js
-http://localhost:8080/backup
+http://127.0.0.1:8080/backup
 69B0Fg4RltQUdC5JJKH11m, 23nFRTPMFPAEX5UJohI8Xx, 6QAKnenuZoowNqxRzZbeRg, 5mhjf1Y4CSWX8i02vp0idf, 6G4aQ4pcQVKSR7KavEd5Sd, 5g6juK6pZSVQs8v8PFMX46, 7KYF90J2KSpfyPS2fQzxsg
