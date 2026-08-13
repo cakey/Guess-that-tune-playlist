@@ -1,8 +1,8 @@
 Spotify Playlist Backup
 Playlist: actual karaoke
 Playlist ID: 69B0Fg4RltQUdC5JJKH11m
-Generated on: 3/22/2026, 7:23:02 PM
-Total tracks: 64
+Generated on: 8/12/2026, 4:56:58 PM
+Total tracks: 67
 Format: Spotify Track URLs
 
 https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm
@@ -10,6 +10,8 @@ https://open.spotify.com/track/4NtUY5IGzHCaqfZemmAu56
 https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr
 https://open.spotify.com/track/22NN4BS1AlqVbyKIWExgON
 https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk
+https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV
+https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7
 https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd
 https://open.spotify.com/track/5o4cq6gKFAbR1V7wITwB7n
 https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ
@@ -17,6 +19,7 @@ https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
 https://open.spotify.com/track/2yEoZfzkbSfW0rp6ngcTeb
 https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU
 https://open.spotify.com/track/5p34sF7EskpzTuW3RGy9fs
+https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE
 https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva
 https://open.spotify.com/track/6mwZS6fLcQP1wKv3HN3OcY
 https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP
@@ -29,6 +32,7 @@ https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z
 https://open.spotify.com/track/24Gxm7Eh7tO83E26LG0CsY
 https://open.spotify.com/track/6Cc09f1tQTDzPKbclK52hY
 https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t
+https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb
 https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU
 https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo
 https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM
@@ -54,7 +58,6 @@ https://open.spotify.com/track/5VqXwCYPMCMa0s4ZmpfJ6r
 https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox
 https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P
 https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj
-https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7
 https://open.spotify.com/track/4inW0d0HQFGXyYZdUdWaNc
 https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX
 https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4

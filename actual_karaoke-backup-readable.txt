@@ -1,8 +1,8 @@
 Spotify Playlist Backup
 Playlist: actual karaoke
 Playlist ID: 69B0Fg4RltQUdC5JJKH11m
-Generated on: 3/22/2026, 7:23:02 PM
-Total tracks: 64
+Generated on: 8/12/2026, 4:56:58 PM
+Total tracks: 67
 Format: Artist - Song Name
 
 4 Non Blondes - What's Up?
@@ -10,6 +10,8 @@ ABBA - Dancing Queen
 ABBA - Dancing Queen
 ABBA - Mamma Mia
 Adele - Rolling in the Deep
+Adele - Someone Like You
+Alan Menken, Howard Ashman - Under the Sea
 Auli'i Cravalho, Disney - How Far I'll Go
 Avril Lavigne - Complicated
 Backstreet Boys - Everybody (Backstreet's Back) - Radio Edit
@@ -17,6 +19,7 @@ Backstreet Boys - I Want It That Way
 Billy Joel - Piano Man
 blink-182 - All The Small Things
 Bonnie Tyler - Total Eclipse of the Heart
+Bruce Springsteen - Dancing In the Dark
 Cascada - Everytime We Touch
 Daryl Hall & John Oates - Maneater
 David Guetta, Sia - Titanium (feat. Sia)
@@ -29,6 +32,7 @@ Eminem - Lose Yourself
 Enrique Iglesias - Hero
 Erasure - A Little Respect
 Erasure - A Little Respect
+Frankie Valli - Can't Take My Eyes off You
 Harvey Danger - Flagpole Sitta
 Idina Menzel - Let It Go - From "Frozen"/Soundtrack Version
 Jeff Buckley - Hallelujah
@@ -54,7 +58,6 @@ Phil Harris, Bruce Reitherman - The Bare Necessities
 Red Hot Chili Peppers - Californication
 Red Hot Chili Peppers - Otherside
 Robbie Williams - Angels
-Samuel E. Wright, Disney - Under the Sea
 Scissor Sisters - Take Your Mama
 Scott McKenzie - San Francisco (Be Sure to Wear Some Flowers In Your Hair)
 Shakira, Freshlyground - Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)
