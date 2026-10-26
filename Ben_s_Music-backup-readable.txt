@@ -1,8 +1,8 @@
 Spotify Playlist Backup
 Playlist: Ben's Music
 Playlist ID: 23nFRTPMFPAEX5UJohI8Xx
-Generated on: 8/12/2026, 5:05:24 PM
-Total tracks: 1575
+Generated on: 10/25/2026, 11:05:34 PM
+Total tracks: 1571
 Format: Artist - Song Name
 
 16BL - Deep In My Soul - Original Mix
@@ -81,7 +81,6 @@ Andy C - What Bass
 Angine de Poitrine - Angor
 Angine de Poitrine - Sarniezz
 Angine de Poitrine - Sherpa
-Angine de Poitrine - Yor Zarad
 Arctic Monkeys - Dancing Shoes
 Arctic Monkeys - Do I Wanna Know?
 Arctic Monkeys - Do Me a Favour
@@ -699,7 +698,6 @@ Houndmouth - Casino (Bad Things)
 Houndmouth - Honey Slider
 Houndmouth - Sedona
 How Sad - Hot Blur
-How Sad - Indian Summer
 Hozier - Jackie and Wilson
 Hozier - Movement
 Hozier - Take Me to Church
@@ -973,7 +971,6 @@ Miles Kane - Loaded
 Miles Kane - Loaded
 Miles Kane - Rearrange
 Miley Cyrus - Heart Of Glass (Live from the iHeart Festival)
-Miley Cyrus - Jolene - Live
 Miley Cyrus - Zombie (Live from the NIVA Save Our Stages Festival)
 Miley Cyrus, Brittany Howard - Walk of Fame (feat. Brittany Howard)
 Miley Cyrus, WATT - Nothing Else Matters
@@ -1530,7 +1527,6 @@ Wax Tailor, R.A. The Rugged Man - Back on Wax (feat. R.A. The Rugged Man, Token 
 We Are Scientists - Cash Cow
 We Are Scientists - Inaction
 We Are Scientists - Lucky Just To Be Here
-We Are Scientists - That's What Counts
 Wellenrausch, Gai Barone - Heroes of Light - Jerome Isma-Ae & Alastor Remix
 Wham! - Club Tropicana
 White Denim - At Night in Dreams

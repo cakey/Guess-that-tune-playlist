@@ -1,8 +1,8 @@
 Spotify Playlist Backup
 Playlist: Guess that Tune.
 Playlist ID: 6QAKnenuZoowNqxRzZbeRg
-Generated on: 8/12/2026, 4:57:17 PM
-Total tracks: 2114
+Generated on: 10/25/2026, 11:05:34 PM
+Total tracks: 2118
 Format: Artist - Song Name
 
 "Les Misérables Original London Cast" Ensemble - One Day More
@@ -33,6 +33,7 @@ Aaron Smith, Krono - Dancin (feat. Luvli) - Krono Remix
 ABBA - Dancing Queen
 ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)
 ABBA - Knowing Me, Knowing You
+ABBA - Lay All Your Love On Me
 ABBA - Mamma Mia
 ABBA - SOS
 ABBA - Super Trouper
@@ -41,7 +42,6 @@ ABBA - Thank You For The Music
 ABBA - The Name Of The Game
 ABBA - The Winner Takes It All
 ABBA - Waterloo
-Above & Beyond, Richard Bedford - Sun & Moon - Original Mix
 AC/DC - Back In Black
 AC/DC - Hells Bells
 AC/DC - Highway to Hell
@@ -85,6 +85,7 @@ Alannah Myles - Black Velvet
 Alesso, Tove Lo - Heroes (we could be)
 Alex Clare - Too Close
 Alex Gaudino, Crystal Waters - Destination Calabria - Radio Edit
+Alex Warren - Ordinary
 Alexander Rybak - Fairytale
 Alexandra Stan - Mr. Saxobeat
 Ali G, Shaggy - Me Julie
@@ -102,7 +103,6 @@ All Time Low - Dear Maria, Count Me In
 Allman Brothers Band - Jessica
 Allman Brothers Band - Ramblin' Man
 Aloe Blacc - I Need A Dollar
-Alphabeat - Fascination
 Alphaville - Forever Young
 alt-J - Breezeblocks
 America, George Martin - A Horse with No Name
@@ -127,6 +127,7 @@ Antonio Vivaldi, Nigel Kennedy - Vivaldi: The Four Seasons, Violin Concerto in E
 Aqua - Barbie Girl
 Aram Khachaturian, Filharmonie Brno - Suite from Gayane No. 3: V. Sabre Dance
 Arcade Fire - Rebellion (Lies)
+Arctic Monkeys - 505
 Arctic Monkeys - Do I Wanna Know?
 Arctic Monkeys - Fluorescent Adolescent
 Arctic Monkeys - I Bet You Look Good On The Dancefloor
@@ -168,7 +169,6 @@ Backstreet Boys - I Want It That Way
 Bad Bunny - Tití Me Preguntó
 Bad Bunny, Chencho Corleone - Me Porto Bonito
 Baddiel, Skinner & Lightning Seeds - Three Lions
-Baddiel, Skinner & Lightning Seeds - Three Lions (Football's Coming Home)
 Baha Men - Who Let The Dogs Out
 Bananarama - Venus
 Band Aid - Do They Know It's Christmas? - 1984 Version
@@ -183,15 +183,14 @@ Barry White - Can't Get Enough Of Your Love, Babe
 Barry White - Just The Way You Are
 Barry White - Let The Music Play
 Barry White - You're The First, The Last, My Everything
-Basement Jaxx - Red Alert - Jaxx Radio Mix
 Basement Jaxx - Romeo
 Basement Jaxx - Where's Your Head At
+Basement Jaxx, Blu James - Red Alert - Jaxx Radio Mix
 Basshunter - DotA
 Bastille - Pompeii
 Bay City Rollers - Bye Bye Baby
 Beastie Boys - Fight For Your Right
 Beastie Boys - Sabotage
-Beck - Girl
 Beck - Loser
 Bee Gees - How Deep Is Your Love
 Bee Gees - More Than A Woman - From "Saturday Night Fever" Soundtrack
@@ -212,8 +211,8 @@ Beyoncé - Irreplaceable
 Beyoncé - Love On Top
 Beyoncé - Run the World (Girls)
 Beyoncé - Single Ladies (Put a Ring on It)
-Beyoncé, JAŸ-Z - Crazy In Love (feat. JAY-Z)
-Beyoncé, JAŸ-Z - Drunk in Love (feat. JAY-Z)
+Beyoncé, JAŸ-Z - Crazy In Love (feat. JAŸ-Z)
+Beyoncé, JAŸ-Z - Drunk in Love (feat. JAŸ-Z)
 Beyoncé, Shakira - Beautiful Liar
 Big Brother & The Holding Company, Janis Joplin - Piece of My Heart
 Big Joe Turner - Shake, Rattle and Roll
@@ -229,6 +228,7 @@ Bill Withers - Lean on Me
 Bill Withers - Lovely Day
 Billie Eilish - bad guy
 Billie Eilish - BIRDS OF A FEATHER
+Billie Eilish - What Was I Made For? [From The Motion Picture "Barbie"]
 Billie Eilish, Khalid - lovely (with Khalid)
 Billie Holiday - All of Me
 Billie Holiday - I'll Be Seeing You
@@ -247,6 +247,7 @@ Billy Preston - Nothing From Nothing
 Bing Crosby - Santa Claus Is Coming To Town
 Bing Crosby - Winter Wonderland - Remastered 2006
 Bing Crosby, Ken Darby Singers - White Christmas - 1947 Version
+Bing Crosby, The Andrews Sisters - Jingle Bells
 Björk - Army of Me
 Björk - Human Behaviour
 Björk - It's Oh So Quiet
@@ -258,7 +259,6 @@ Black Eyed Peas - Pump It
 Black Eyed Peas - Where Is The Love?
 Black Lace - Agadoo
 Black Lace - The Birdie Song
-Black Sabbath - Heaven and Hell - 2008 Remaster
 Black Sabbath - Iron Man - 2012 - Remaster
 Black Sabbath - Paranoid - 2012 - Remaster
 Black Sabbath - War Pigs / Luke's Wall - 2012 - Remaster
@@ -362,6 +362,7 @@ Busted - What I Go To School For
 Busted - Year 3000
 Buster Poindexter And His Banshees Of Blue - Hot Hot Hot
 C & C Music Factory, Freedom Williams - Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)
+Cab Calloway - Minnie the Moocher (Theme Song)
 Caesars - Jerk It Out
 Cage The Elephant - Ain't No Rest for the Wicked
 Calvin Harris - Feel So Close - Radio Edit
@@ -401,7 +402,6 @@ Chappell Roan - Good Luck, Babe!
 Charles Strouse, Andrea McArdle - Annie: It's the Hard-Knock Life
 Charles Strouse, Andrea McArdle - Annie: Tomorrow
 Charmian Carr, Heather Menzies - The Sound Of Music
-Chase & Status, Liam Bailey - Blind Faith
 Cheap Trick - I Want You to Want Me
 Cheap Trick - Surrender
 Cher - Believe
@@ -439,6 +439,7 @@ City High - What Would You Do?
 Claude Debussy, Alexis Weissenberg - Clair de lune
 Clean Bandit, Anne-Marie - Rockabye (feat. Sean Paul & Anne-Marie)
 Clean Bandit, Jess Glynne - Rather Be (feat. Jess Glynne)
+Clean Bandit, Zara Larsson - Symphony (feat. Zara Larsson)
 Cliff Edwards, Disney Studio Chorus - When You Wish Upon a Star
 Cliff Richard & The Drifters - Living Doll
 Cliff Richard & The Shadows - Summer Holiday - 2003 Remaster
@@ -510,7 +511,6 @@ David Bowie - Ziggy Stardust - 2012 Remaster
 David Burt, "Les Misérables Original London Cast" Ensemble - Do You Hear The People Sing?
 David Guetta, Akon - Sexy Bitch (feat. Akon)
 David Guetta, Chris Willis - Love Is Gone - Fred Riester & Joachim Garraud Radio Edit Remix
-David Guetta, Dirty South - How Soon Is Now (Dirty South) (feat. Julie McKnight) - Continuous Mix Version
 David Guetta, Kelly Rowland - When Love Takes Over (feat. Kelly Rowland)
 David Guetta, Sia - Titanium (feat. Sia)
 Dawn, Tony Orlando - Tie a Yellow Ribbon Round the Ole Oak Tree (feat. Tony Orlando) - 1998 Remastered
@@ -565,6 +565,7 @@ DJ Snake, Selena Gomez - Taki Taki (with Selena Gomez, Ozuna & Cardi B)
 DJ Spiller, Sophie Ellis-Bextor - Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]
 DMX - Party Up
 DMX - X Gon' Give It To Ya
+Doja Cat - Say So
 Dolly Parton - 9 to 5
 Dolly Parton - Jolene
 Dolly Parton, Kenny Rogers - Islands In the Stream
@@ -586,6 +587,7 @@ Drake - God's Plan
 Drake - Hotline Bling
 Drake, Wizkid - One Dance
 Dropkick Murphys - I'm Shipping Up To Boston
+Dua Lipa - Dance The Night
 Dua Lipa - Don't Start Now
 Dua Lipa - New Rules
 Dua Lipa, DaBaby - Levitating (feat. DaBaby)
@@ -748,6 +750,8 @@ Frankie Valli & The Four Seasons - Sherry
 Frankie Valli - Can't Take My Eyes off You
 Franz Ferdinand - Take Me Out
 Franz Liszt, Jenő Jandó - Liebestraume, S541/R211 : No. 3: Nocturne in A-Flat Major
+Fred Astaire - Cheek to Cheek
+Fred Astaire - Puttin' on the Ritz
 Free - All Right Now
 Frédéric Chopin, Arthur Rubinstein - Fantasie-impromptu in C-Sharp Minor, Op. 66 No. 4
 Frédéric Chopin, Brigitte Engerer - 3 Nocturnes, Op. 9: II. Andante
@@ -756,6 +760,7 @@ Fugees, Ms. Lauryn Hill - Ready or Not
 fun., Janelle Monáe - We Are Young (feat. Janelle Monáe)
 Future - Mask Off
 GABRIELLE - Out Of Reach
+Gala, Molella - Freed From Desire
 Garth Brooks - Friends in Low Places - Live
 Gary Jules, Michael Andrews - Mad World
 Gavin DeGraw - I Don't Want to Be
@@ -763,18 +768,19 @@ Gene Kelly, Debbie Reynolds - Good Morning
 Gene Kelly, Nacio Herb Brown - Singin' in the rain
 George Benson - Give Me the Night
 George Ezra - Budapest
+George Ezra - Shotgun
 George Frideric Handel, Eugene Ormandy - Hallelujah Chorus - From the "Messiah"
 George Frideric Handel, Royal Choral Society - Zadok The Priest (Coronation Anthem No. 1, HWV 258)
 George Harrison - Got My Mind Set on You
 George Harrison - My Sweet Lord - Remastered 2014
 George Michael - Careless Whisper
 George Michael - Faith - Remastered
+George Michael - Freedom! '90 - Remastered
 George Thorogood & The Destroyers - Bad To The Bone
 Georges Bizet, Orquesta Sinfónica de Radio Praga - Carmen: Habanera
 Gerry & The Pacemakers - You'll Never Walk Alone - Mono; 2002 Remaster
 Gerry Rafferty - Baker Street
 Giacomo Puccini, Luciano Pavarotti - Turandot, Act III: Nessun dorma!
-Gilbert & Sullivan, D'Oyly Carte Opera Company Chorus - The Mikado: Act One, "Three Little Maids from School"
 Gilbert O'Sullivan - Alone Again (Naturally)
 Gina G, Motiv8 - Ooh Aah...Just a Little Bit - Motiv8 Radio Edit
 Ginuwine - Pony
@@ -790,7 +796,6 @@ Gloria Estefan, Miami Sound Machine - Conga
 Gloria Gaynor - I Will Survive - 1981 Re-recording
 Gnarls Barkley, CeeLo Green - Crazy
 Goldfrapp - Ooh La La
-Goldfrapp - Strict Machine
 Good Charlotte - Girls & Boys
 Good Charlotte - Lifestyles of the Rich & Famous
 Gorillaz - On Melancholy Hill
@@ -804,6 +809,7 @@ Grandmaster Flash & The Furious Five, Grandmaster Melle Mel - The Message (feat.
 Grateful Dead - Casey Jones - 2013 Remaster
 Green Day - American Idiot
 Green Day - Basket Case
+Green Day - Boulevard of Broken Dreams
 Green Day - Good Riddance (Time of Your Life)
 Green Day - Wake Me up When September Ends
 Green Day - When I Come Around
@@ -816,7 +822,6 @@ Guns N' Roses - Don't Cry (Original)
 Guns N' Roses - Knockin' On Heaven's Door
 Guns N' Roses - November Rain
 Guns N' Roses - Paradise City
-Guns N' Roses - Rocket Queen
 Guns N' Roses - Sweet Child O' Mine
 Guns N' Roses - Welcome To The Jungle
 Guru Josh Project, Klaas - Infinity 2008 - Klaas Vocal Edit
@@ -852,6 +857,7 @@ Hot Chip - Ready For The Floor
 Hot Chocolate - You Sexy Thing
 House Of Pain - Jump Around
 Hozier - Take Me to Church
+Hozier - Too Sweet
 Huey Lewis & The News - The Power Of Love
 HUNTR/X, EJAE - Golden
 Ian van Dahl, Marsha - Castles In The Sky - Radio Mix
@@ -865,6 +871,7 @@ Iggy Pop - The Passenger
 Imagine Dragons - Believer
 Imagine Dragons - On Top Of The World
 Imagine Dragons - Radioactive
+Imagine Dragons - Thunder
 Imogen Heap - Hide and Seek
 Incubus - Drive
 Irene Cara - Fame
@@ -935,7 +942,7 @@ Johann Sebastian Bach, The Cavendish Orchestra - Orchestral Overture (Suite) Nr.
 Johann Sebastian Bach, Ton Koopman - Toccata & Fugue in D Minor, BWV 565
 Johann Sebastian Bach, Trevor Pinnock - Brandenburg Concerto No. 3 in G Major, BWV 1048: I. [Allegro]
 Johann Sebastian Bach, Yo-Yo Ma - Cello Suite No. 1 in G Major, BWV 1007: I. Prélude
-Johann Strauss II, Berliner Philharmoniker - An der schönen blauen Donau, Waltz, Op. 314
+Johann Strauss II, Berlin Philharmonic - An der schönen blauen Donau, Waltz, Op. 314
 Johannes Brahms, Wiener Philharmoniker - 21 Hungarian Dances, WoO 1: Hungarian Dance No. 5 in G Minor. Allegro (Orch. Schmeling)
 John Denver - Take Me Home, Country Roads - Original Version
 John Legend - All of Me
@@ -951,6 +958,7 @@ John Williams - Hedwig's Theme
 John Williams - Theme From Jurassic Park
 John Williams, Chaim Topol - If I Were A Rich Man
 John Williams, London Symphony Orchestra - Cantina Band
+John Williams, London Symphony Orchestra - Star Wars (Main Theme)
 John Williams, London Symphony Orchestra - The Imperial March (Darth Vader's Theme)
 Johnny Cash - Folsom Prison Blues
 Johnny Cash - Hurt
@@ -974,10 +982,10 @@ Julie Andrews - A Spoonful of Sugar - From "Mary Poppins" / Soundtrack Version
 Julie Andrews - My Favorite Things
 Julie Andrews, Dick Van Dyke - Supercalifragilisticexpialidocious - From "Mary Poppins" Soundtrack
 Julie Andrews, Nicholas Hammond - Do-Re-Mi
+Julius Fučík, Gothenburg Symphony Orchestra - Entry of the Gladiators, Op. 68
 Jung Kook, Latto - Seven (feat. Latto) (Explicit Ver.)
 Junior Senior - Move Your Feet
 Justice - D.A.N.C.E.
-Justice - Genesis
 Justice, Simian - We Are Your Friends - Justice Vs Simian
 Justin Bieber - Love Yourself
 Justin Bieber - One Time
@@ -1004,8 +1012,10 @@ Kanye West - POWER
 Kanye West - Stronger
 Kanye West, Dwele - Flashing Lights
 Kanye West, Jamie Foxx - Gold Digger
+Kaoma - Lambada - Original Version 1989
 Kardinal Offishall, Akon - Dangerous
 Kasabian - Fire
+Kate Bush - Running Up That Hill (A Deal With God)
 Kate Nash - Foundations
 Katherine Jenkins, Kiri Te Kanawa - The Flower Duet (From "Lakmé")
 Katrina & The Waves - Walking On Sunshine
@@ -1020,9 +1030,9 @@ KC & The Sunshine Band - (Shake, Shake, Shake) Shake Your Booty - 45 Version
 KC & The Sunshine Band - Get Down Tonight - 2004 Remaster
 KC & The Sunshine Band - Give It Up
 KC & The Sunshine Band - That's the Way (I Like It) - 2004 Remaster
+Keala Settle, The Greatest Showman Ensemble - This Is Me
 Keane - Everybody's Changing
 Keane - Somewhere Only We Know
-Keane - This Is The Last Time
 Kelis - Milkshake
 Kelly Clarkson - Because of You
 Kelly Clarkson - My Life Would Suck Without You
@@ -1071,6 +1081,7 @@ Labi Siffre, Kevin W. Smith - (Something Inside) So Strong
 Lady Gaga - Applause
 Lady Gaga - Bad Romance
 Lady Gaga - Born This Way
+Lady Gaga - Paparazzi
 Lady Gaga - Poker Face
 Lady Gaga, Beyoncé - Telephone
 Lady Gaga, Bradley Cooper - Shallow
@@ -1080,9 +1091,7 @@ Lana Del Rey - Young And Beautiful
 Lana Del Rey, Cedric Gervais - Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix
 Las Ketchup - The Ketchup Song (Aserejé) - Spanglish Version
 LeAnn Rimes - Can't Fight The Moonlight
-Led Zeppelin - Babe I'm Gonna Leave You - 1990 Remaster
 Led Zeppelin - Black Dog - Remaster
-Led Zeppelin - Going to California - Remaster
 Led Zeppelin - Good Times Bad Times - 1993 Remaster
 Led Zeppelin - Immigrant Song - Remaster
 Led Zeppelin - Kashmir - 1990 Remaster
@@ -1090,13 +1099,10 @@ Led Zeppelin - Ramble On - 1990 Remaster
 Led Zeppelin - Rock and Roll - Remaster
 Led Zeppelin - Stairway to Heaven - 1990 Remaster
 Led Zeppelin - Whole Lotta Love - 1990 Remaster
-Lemar - If There's Any Justice
 Lenny Kravitz - Are You Gonna Go My Way
 Lenny Kravitz - Fly Away
 Leona Lewis - Bleeding Love
 Les Misérables-Original London Cast - I Dreamed a Dream
-Les Rythmes Digitales - Jacques Your Body (Make Me Sweat)
-Les Rythmes Digitales - Jacques Your Body Makes Me Sweat
 Lesley Gore - It's My Party
 Lewis Capaldi - Someone You Loved
 Liberty X - Just A Little
@@ -1140,6 +1146,7 @@ Lou Reed - Walk On the Wild Side
 Louis Armstrong - What A Wonderful World
 Ludwig van Beethoven - Für Elise
 Ludwig van Beethoven, Paul Lewis - Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - "Moonlight Sonata": I. Adagio sostenuto
+Ludwig van Beethoven, Wiener Philharmoniker - Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio
 Luis Fonsi, Daddy Yankee - Despacito
 Luis Miguel - Ahora Te Puedes Marchar
 Lulu - The Man With The Golden Gun - Reprise
@@ -1160,18 +1167,21 @@ Madness - Our House
 Madonna - Don't Cry for Me Argentina
 Madonna - Holiday
 Madonna - Hung Up
+Madonna - La Isla Bonita
 Madonna - Like a Prayer
 Madonna - Like a Virgin
 Madonna - Material Girl
 Madonna - Vogue
 MAGIC! - Rude
-Major Lazer, Diplo - Light It Up (Remix)
+Mahna Mahna and The Two Snowths - Mah Na Mah Na
+Major Lazer, Diplo - Light It Up - Remix
 Major Lazer, DJ Snake - Lean On
 Maluma - Felices los 4
 Manfred Mann - Do Wah Diddy Diddy - 2007 Remaster
 Manfred Mann's Earth Band - Blinded By The Light - Single edit
 Manu Chao - Bongo Bong
 Manu Chao - Me Gustas Tu
+Manu Pilas - Bella Ciao - Música Original de la Serie la Casa de Papel/ Money Heist
 Marc Anthony - Vivir Mi Vida
 Marc Cohn - Walking in Memphis
 Mariachi Vargas De Tecalitlán - Cielito Lindo
@@ -1204,11 +1214,9 @@ Mary J. Blige - No More Drama
 Mary Mary - Shackles (Praise You)
 Massive Attack, Elizabeth Fraser - Teardrop
 Massive Attack, Hope Sandoval - Paradise Circus
-Matoma, The Notorious B.I.G. - Old Thing Back (feat. Ja Rule and Ralph Tresvant)
 Matthew Wilder - Break My Stride
 MC Hammer - U Can't Touch This
 McFly - All About You
-McFly - Obviously
 Meat Loaf - I'd Do Anything For Love (But I Won't Do That) - Single Edit
 Meghan Trainor - All About That Bass
 Meghan Trainor, John Legend - Like I'm Gonna Lose You (feat. John Legend)
@@ -1218,7 +1226,6 @@ Metallica - Enter Sandman
 Metallica - Master of Puppets (Remastered)
 Metallica - Nothing Else Matters
 Metallica - The Unforgiven
-Metric - Help I'm Alive
 MGMT - Electric Feel
 MGMT - Kids
 MGMT - Time to Pretend
@@ -1308,6 +1315,7 @@ Nickelback - Rockstar
 Nicki Minaj - Anaconda
 Nicki Minaj - Starships
 Nico & Vinz - Am I Wrong
+Nikolai Rimsky-Korsakov, Isaac Stern - Flight of the Bumblebee
 Nina Simone - Ain't Got No - I Got Life - Single Version
 Nina Simone - Feeling Good
 Nina Simone - My Baby Just Cares for Me - 2013 Remastered Version
@@ -1370,6 +1378,7 @@ Pat Benatar - Hit Me With Your Best Shot
 Pat Benatar - We Belong
 Paul Anka - Put Your Head on My Shoulder
 Paul McCartney - Ebony And Ivory - Remixed 2015
+Paul McCartney - Wonderful Christmastime - Full Length Version / Remastered 2011
 Paul McCartney, Michael Jackson - Say Say Say - Remastered 2015
 Paul Simon - 50 Ways to Leave Your Lover
 Paul Simon - You Can Call Me Al
@@ -1379,7 +1388,6 @@ Pearl Jam - Alive
 Pearl Jam - Even Flow
 Peggy Lee - Fever
 Pendulum - Watercolour - Full Version; Single
-Pendulum, Tenor Fly - Tarantula - Original Mix
 Percy Sledge - When a Man Loves a Woman
 Perry Como - Magic Moments
 Perry Como - Papa Loves Mambo
@@ -1415,10 +1423,8 @@ Pitbull, John Ryan - Fireball (feat. John Ryan)
 Pitbull, Kesha - Timber
 Pitbull, Ne-Yo - Time of Our Lives
 Pixies - Where Is My Mind?
-Placebo - Pure Morning
 Plain White T's - Hey There Delilah
 Plan B - She Said
-Planet Funk - Chase the Sun
 Poison - Every Rose Has Its Thorn - 2003 Remaster
 Pokémon - Pokémon Theme
 Portugal. The Man - Feel It Still
@@ -1426,6 +1432,7 @@ Post Malone - Circles
 Post Malone, 21 Savage - rockstar (feat. 21 Savage)
 Post Malone, Swae Lee - Sunflower - Spider-Man: Into the Spider-Verse
 Prince - Kiss
+Prince - Purple Rain
 Prince - When Doves Cry
 Procol Harum - A Whiter Shade of Pale - 2007 Remaster
 PSY - Gangnam Style (강남스타일)
@@ -1442,6 +1449,7 @@ Queen - Crazy Little Thing Called Love - Remastered 2011
 Queen - Don't Stop Me Now - Remastered 2011
 Queen - Fat Bottomed Girls
 Queen - I Want It All - Remastered 2011
+Queen - I Want to Break Free
 Queen - Killer Queen - Remastered 2011
 Queen - Radio Ga Ga - Remastered 2011
 Queen - Somebody To Love - Remastered 2011
@@ -1459,9 +1467,8 @@ R.E.M. - It's The End Of The World As We Know It (And I Feel Fine)
 R.E.M. - Losing My Religion
 R.E.M. - Shiny Happy People
 Radiohead - Creep
-Radiohead - Everything In Its Right Place
-Radiohead - Idioteque
 Radiohead - Karma Police
+Radiohead - Let Down
 Radiohead - No Surprises
 Radiohead - Paranoid Android
 Rag'n'Bone Man - Human
@@ -1481,7 +1488,7 @@ Ray Charles - Hit the Road Jack
 Ray Charles - I've Got a Woman
 Ray Parker Jr. - Ghostbusters
 Razorlight - America
-Razorlight - Golden Touch - Full Length
+Razorlight - Golden Touch
 Red Hot Chili Peppers - By the Way
 Red Hot Chili Peppers - Californication
 Red Hot Chili Peppers - Can't Stop
@@ -1497,7 +1504,7 @@ Reel Big Fish - Beer
 Reel Big Fish - Sell Out
 Rema - Calm Down
 Richard Marx - Right Here Waiting
-Richard Strauss, Berliner Philharmoniker - Also sprach Zarathustra, Op. 30: I. Prelude. Sonnenaufgang
+Richard Strauss, Berlin Philharmonic - Also sprach Zarathustra, Op. 30: I. Prelude. Sonnenaufgang
 Richard Wagner, Budapest Symphony Orchestra - Die Walküre, Act III: Ride of the Valkyries
 Rick Astley - Never Gonna Give You Up
 Rick James - Super Freak
@@ -1510,6 +1517,7 @@ Rihanna - Bitch Better Have My Money
 Rihanna - Diamonds
 Rihanna - Disturbia
 Rihanna - Don't Stop The Music
+Rihanna - Only Girl (In The World)
 Rihanna - Pon de Replay
 Rihanna - Rude Boy
 Rihanna, Calvin Harris - We Found Love
@@ -1538,6 +1546,7 @@ Ronan Keating - When You Say Nothing At All
 Room 5, Oliver Cheatham - Make Luv
 Rose Royce - Car Wash - Long Version
 Rosemary Clooney, The Mellomen - Mambo Italiano (with The Mellomen) - 78rpm Version
+ROSÉ, Bruno Mars - APT.
 Roxette - It Must Have Been Love - From the Film "Pretty Woman"
 Roxette - Listen To Your Heart
 Roy Orbison - Oh, Pretty Woman
@@ -1553,7 +1562,6 @@ S Club - Bring It All Back
 S Club - Don't Stop Movin'
 S Club - Never Had A Dream Come True
 S Club - Reach
-S Club Juniors - One Step Closer
 Sabrina Carpenter - Espresso
 Sade - Smooth Operator - Single Version
 Salt-N-Pepa - Push It
@@ -1580,6 +1588,7 @@ Scissor Sisters - I Don't Feel Like Dancin' - Radio Edit
 Scissor Sisters - Laura
 Scissor Sisters - Take Your Mama
 Scorpions - Rock You Like A Hurricane
+Scorpions - Wind Of Change
 Scott Joplin, Morten Gunnar Larsen - The Entertainer
 Scott McKenzie - San Francisco (Be Sure to Wear Some Flowers In Your Hair)
 Scouting For Girls - She's So Lovely
@@ -1593,7 +1602,6 @@ Sean Paul - We Be Burnin'
 Selena Gomez - Come & Get It
 Semisonic - Closing Time
 Sergei Prokofiev, André Previn - Prokofiev: Romeo and Juliet, Op. 64, Act 1: Dance of the Knights
-Sergei Rachmaninoff - The Flight of the Bumblebee
 Sergio Mendes & Brasil '66 - Mais Que Nada
 Sex Pistols - Anarchy In The UK
 Sex Pistols - God Save the Queen
@@ -1616,7 +1624,6 @@ Sia - Breathe Me
 Sia - Chandelier
 Sia - Cheap Thrills
 Sia - Elastic Heart
-Sidney Samson - Riverside - Radio Mix
 Sigur Rós - Hoppípolla
 Silentó - Watch Me (Whip / Nae Nae)
 Silversun Pickups - Lazy Eye
@@ -1648,7 +1655,6 @@ Snoop Dogg, Daz Dillinger - Gin N Juice (feat. Dat Nigga Daz)
 Snoop Dogg, Pharrell Williams - Drop It Like It's Hot
 Snoop Dogg, Wiz Khalifa - Young, Wild & Free (feat. Bruno Mars)
 Snow Patrol - Chasing Cars
-Snow Patrol - Run
 So Solid Crew - 21 Seconds - 12" Version
 Soft Cell - Tainted Love
 Sonny & Cher - I Got You Babe
@@ -1657,12 +1663,14 @@ Soulja Boy - Crank That (Soulja Boy)
 Soundgarden - Black Hole Sun
 Spandau Ballet - Gold - 2003 Remaster
 Spandau Ballet - True - 2003 Remaster
-Spice Girls - Say You'll Be There
+Spice Girls - 2 Become 1
+Spice Girls - Say You'll Be There - Single Mix
 Spice Girls - Spice Up Your Life
 Spice Girls - Stop
 Spice Girls - Wannabe
 Spin Doctors - Two Princes
 Stan Getz - The Girl From Ipanema
+Stardust, Benjamin Diamond - Music Sounds Better With You
 Starland Vocal Band - Afternoon Delight
 Starship - Nothing's Gonna Stop Us Now
 Starship - We Built This City
@@ -1671,7 +1679,6 @@ Status Quo - Pictures of Matchstick Men
 Status Quo - Rockin' All Over The World
 Status Quo - Whatever You Want
 Stealers Wheel - Stuck In The Middle With You
-Stephanie D'Abruzzo, Rick Lyon - The Internet Is for Porn
 Stephen Schwartz, Kristin Chenoweth - Defying Gravity
 Steppenwolf - Born To Be Wild - Single Version
 Steppenwolf - Magic Carpet Ride
@@ -1720,6 +1727,7 @@ Swedish House Mafia, Tinie Tempah - Miami 2 Ibiza - Swedish House Mafia vs. Tini
 Sweet - Ballroom Blitz
 System Of A Down - B.Y.O.B.
 System Of A Down - Chop Suey!
+SZA - Kill Bill
 T-Spoon - Sex on the Beach - Radio Mix
 t.A.T.u. - All The Things She Said
 t.A.T.u. - Not Gonna Get Us
@@ -1739,6 +1747,7 @@ Taylor Swift - Cruel Summer
 Taylor Swift - I Knew You Were Trouble.
 Taylor Swift - Love Story
 Taylor Swift - Shake It Off
+Taylor Swift - The Fate of Ophelia
 Taylor Swift - We Are Never Ever Getting Back Together
 Taylor Swift - You Belong With Me
 Tears For Fears - Everybody Wants To Rule The World
@@ -1753,6 +1762,7 @@ The 5th Dimension - Aquarius/Let The Sunshine In (The Flesh Failures) - From the
 The 5th Dimension - Up, Up and Away
 The All-American Rejects - Dirty Little Secret
 The All-American Rejects - Gives You Hell
+The Andrews Sisters - Boogie Woogie Bugle Boy
 The Animals - House Of The Rising Sun
 The Archies - Sugar, Sugar
 The Automatic - Monster
@@ -1792,7 +1802,6 @@ The Beatles - While My Guitar Gently Weeps - Remastered 2009
 The Beatles - Yellow Submarine - Remastered 2009
 The Beatles - Yesterday - Remastered 2009
 The Bobby Fuller Four - I Fought the Law - Single Version
-The Bravery - An Honest Mistake
 The Buggles - Video Killed The Radio Star
 The Byrds - Mr. Tambourine Man
 The Byrds - Turn! Turn! Turn! (To Everything There Is a Season)
@@ -1822,8 +1831,7 @@ The Cure - Boys Don't Cry
 The Cure - Friday I'm in Love
 The Cure - Just like Heaven
 The Dandy Warhols - Bohemian Like You
-The Darkness - I Believe in a Thing Called Love
-The Darkness - Love Is Only a Feeling
+The Darkness - I Believe In A Thing Called Love
 The Dave Brubeck Quartet - Take Five
 The Dave Brubeck Quartet - Unsquare Dance
 The Doobie Brothers - Listen to the Music
@@ -1842,8 +1850,6 @@ The Foundations - Build Me Up Buttercup
 The Four Seasons - December, 1963 (Oh What a Night!)
 The Fratellis - Chelsea Dagger
 The Fray - How to Save a Life
-The Fray - Mahna Mahna
-The Futureheads - Hounds of Love
 The Goo Goo Dolls - Iris
 The Harmony Group - Electric Avennue
 The Hives - Hate To Say I Told You So
@@ -1874,7 +1880,6 @@ The Kinks - You Really Got Me
 The Klezmer Lounge Band - Hava Nagila
 The Knack - My Sharona
 The Kooks - Naive
-The Kooks - Seaside
 The Kooks - She Moves In Her Own Way
 The La's - There She Goes
 The Libertines - Can't Stand Me Now
@@ -1884,7 +1889,6 @@ The Lonely Island, Akon - I Just Had Sex
 The Lonely Island, T-Pain - I'm On A Boat
 The Lumineers - Ho Hey
 The Lumineers - Ophelia
-The Maccabees - Toothpaste Kisses
 The Mamas & The Papas - California Dreamin' - Single Version
 The Mamas & The Papas - Dream A Little Dream Of Me
 The Mariachis - La Cucaracha
@@ -1979,6 +1983,7 @@ The Weather Girls - It's Raining Men
 The Weeknd - Blinding Lights
 The Weeknd - Can't Feel My Face
 The Weeknd - Earned It (Fifty Shades Of Grey) - From The "Fifty Shades Of Grey" Soundtrack
+The Weeknd - Save Your Tears
 The Weeknd - The Hills
 The Weeknd, Daft Punk - I Feel It Coming
 The Weeknd, Daft Punk - Starboy
@@ -1989,7 +1994,6 @@ The Who - My Generation - Stereo Version
 The Who - Pinball Wizard
 The Wombats - Let's Dance to Joy Division
 The Yardbirds - For Your Love
-The Yardbirds - Heart Full of Soul
 The Zombies - Time of the Season - Mono Version
 Thin Lizzy - The Boys Are Back In Town
 Third Eye Blind - Semi-Charmed Life

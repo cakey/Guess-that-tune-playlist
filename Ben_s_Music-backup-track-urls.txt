@@ -1,8 +1,8 @@
 Spotify Playlist Backup
 Playlist: Ben's Music
 Playlist ID: 23nFRTPMFPAEX5UJohI8Xx
-Generated on: 8/12/2026, 5:05:24 PM
-Total tracks: 1575
+Generated on: 10/25/2026, 11:05:34 PM
+Total tracks: 1571
 Format: Spotify Track URLs
 
 https://open.spotify.com/track/5nmr0qCA3JXN2MRdEDUFi6
@@ -81,7 +81,6 @@ https://open.spotify.com/track/35Xb5ULezLPN0iGqa7bRP2
 https://open.spotify.com/track/3l75cLGKRMPUQyCMI0DZWC
 https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt
 https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G
-https://open.spotify.com/track/0THaoqWjE4cyOMZALznzq9
 https://open.spotify.com/track/3Rleu2vd9qHGjRJdcFtPbC
 https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst
 https://open.spotify.com/track/13NCxLOlvQ4Tnexgfp03Gs
@@ -699,7 +698,6 @@ https://open.spotify.com/track/4Lpl8O1fYkOy07b9wWfIjM
 https://open.spotify.com/track/0fFJb0OtNs1mybCvh5xlvl
 https://open.spotify.com/track/2kG5litgxXvx6ZRgwO1v7W
 https://open.spotify.com/track/08OTqB3xjsLa5EZb9Fu2Lw
-https://open.spotify.com/track/2azqQ1RoLY0pljf7G7VYKn
 https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n
 https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh
 https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP
@@ -973,7 +971,6 @@ https://open.spotify.com/track/091QeYor0DTf2kdhkKk3xk
 https://open.spotify.com/track/7eKUG8l9jlGeZ7hh0DA036
 https://open.spotify.com/track/6f4V3llGPLYgv49ro7vXSE
 https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j
-https://open.spotify.com/track/39HFKh08mU0aktj9UulRnY
 https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj
 https://open.spotify.com/track/4EJjVfB2pQNn0ZFe1DgUOX
 https://open.spotify.com/track/2mC33mxgLJN3IT65MGN3B0
@@ -1530,7 +1527,6 @@ https://open.spotify.com/track/7wdQDMF19k7g5awB8BL9j5
 https://open.spotify.com/track/0pH5Zt9YN4dpjqoqKInnLI
 https://open.spotify.com/track/7nxqCimmjnw1abCnn4RdCP
 https://open.spotify.com/track/75TVVaTRUFwS0rXf3VMfqS
-https://open.spotify.com/track/4KiuIdXEdzcoGSnBQMlNAj
 https://open.spotify.com/track/5VYn7h8LnYvWPWR7lbSzwR
 https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji
 https://open.spotify.com/track/6ZeOVOdxz0Sf0o9yf6imUX
