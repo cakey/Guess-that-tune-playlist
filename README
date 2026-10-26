@@ -14,7 +14,23 @@ python3 backup.py
 
 The script uses spotify_player's cached login and only reads from Spotify. It
 overwrites the backup files in this repository; review the changes before
-committing them.
+committing them. It writes nothing if any playlist comes back more than 20%
+smaller than its current backup.
+
+## Monthly schedule
+
+The LaunchAgent `com.benshaw.playlist-backup` runs `scripts/run-backup.zsh` at
+9:00 AM on the 14th of each month, the day before the album radar and taste
+discovery jobs read these files. It commits the refreshed backups locally and
+never pushes. Install or reinstall it with:
+
+```sh
+scripts/install-launchd.zsh
+```
+
+`launchd/com.benshaw.playlist-backup.plist` is a template; the installer fills
+in the local paths, so the installed job is a copy rather than a symlink. Logs
+go to `logs/`, which isn't committed.
 
 The playlists it backs up are listed in `PLAYLISTS` at the top of the script.
 `Ben's Liked Songs` is the account's Liked Songs, which isn't a real playlist,

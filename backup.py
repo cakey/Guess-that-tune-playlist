@@ -137,10 +137,23 @@ def write_backup(out_dir, info, tracks, generated):
             f.write(header + "\n".join(line(t) for t in tracks))
 
 
+def previous_count(out_dir, info):
+    safe_name = re.sub(r"[^a-zA-Z0-9]", "_", info["name"])
+    try:
+        with open(os.path.join(out_dir, f"{safe_name}-backup-readable.txt"), encoding="utf-8") as f:
+            match = re.search(r"^Total tracks: (\d+)$", f.read(), re.M)
+    except FileNotFoundError:
+        return None
+    return int(match[1]) if match else None
+
+
 def main():
     out_dir = os.path.dirname(os.path.abspath(__file__))
     token = access_token()
     generated = js_locale_now()
+    # Fetch everything before writing anything, so a failure part way through
+    # never leaves a mix of old and new backups.
+    results = []
     for playlist_id, name in PLAYLISTS.items():
         if playlist_id == "liked":
             info, tracks = fetch_liked(token, name)
@@ -149,6 +162,18 @@ def main():
         if not tracks:
             print(f"No tracks found in playlist: {info['name']}", file=sys.stderr)
             continue
+        results.append((info, tracks))
+    # Other jobs read these files, so refuse a sudden big drop (an API change or
+    # a bad response) rather than overwrite a good backup with it.
+    shrunk = []
+    for info, tracks in results:
+        before = previous_count(out_dir, info)
+        if before and len(tracks) < before * 0.8:
+            shrunk.append(f"{info['name']}: {before} -> {len(tracks)} tracks")
+    if shrunk:
+        sys.exit("Refusing to write backups; these shrank by more than 20%:\n  "
+                 + "\n  ".join(shrunk))
+    for info, tracks in results:
         write_backup(out_dir, info, tracks, generated)
         print(f"{info['name']}: {len(tracks)} tracks")
 
