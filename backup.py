@@ -57,12 +57,18 @@ def api_get(url, token):
     })
     for attempt in range(5):
         try:
-            with urllib.request.urlopen(req) as resp:
+            with urllib.request.urlopen(req, timeout=60) as resp:
                 return json.load(resp)
         except urllib.error.HTTPError as e:
             if e.code != 429 and e.code < 500:
                 raise
-            time.sleep(int(e.headers.get("Retry-After", 2 + attempt * 3)))
+            wait = int(e.headers.get("Retry-After", 2 + attempt * 3))
+            # Spotify can ask for a wait of most of a day; fail instead of
+            # sleeping through it, and leave the existing backups alone.
+            if wait > 120:
+                sys.exit(f"Spotify rate limit: asked to wait {wait // 3600}h "
+                         f"{wait % 3600 // 60}m; try again after that")
+            time.sleep(wait)
     raise RuntimeError(f"Gave up on {url}")
 
 

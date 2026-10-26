@@ -21,8 +21,10 @@ smaller than its current backup.
 
 The LaunchAgent `com.benshaw.playlist-backup` runs `scripts/run-backup.zsh` at
 9:00 AM on the 14th of each month, the day before the album radar and taste
-discovery jobs read these files. It commits the refreshed backups locally and
-never pushes. Install or reinstall it with:
+discovery jobs read these files. On `master` it commits the refreshed backups
+and pushes them; on any other branch it only writes the files. If Spotify
+rate-limits the run it fails without touching the backups. Install or
+reinstall it with:
 
 ```sh
 scripts/install-launchd.zsh
