@@ -1,2 +1,15 @@
-logs/
+# This repository is public. Track only the backups and the code that makes
+# them; everything else is ignored so it can't be committed by accident.
+# Add a new file here deliberately, after checking it belongs in public.
+/*
+!/.gitignore
+!/AGENTS.md
+!/CLAUDE.md
+!/README
+!/backup.py
+!/scripts/
+!/launchd/
+!/*-backup-readable.txt
+!/*-backup-track-urls.txt
 __pycache__/
+.DS_Store
